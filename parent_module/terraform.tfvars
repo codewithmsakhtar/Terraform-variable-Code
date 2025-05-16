@@ -1,0 +1,5 @@
+storage_account_name             = "devstgname"
+storage_account_replication_type = "LRS"
+storage_account_tier = "Standard"
+rg_name = "dev_rg_name"
+rg_location = "East US"
